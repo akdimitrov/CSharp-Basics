@@ -1,2 +1,2 @@
 # CSharp-Basics
-C# Basics Module - SoftUni Problems
+C# Basics Module - SoftUni Problem Solutions
